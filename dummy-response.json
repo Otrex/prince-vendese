@@ -1,0 +1,46 @@
+[
+  {
+    "__className": "products_response",
+    "__path": "/lib/src/models/products_response",
+    "total": 1024,
+    "limit": 50,
+    "skip": 0,
+    "data.products": [
+      {
+        "_id": "62cd238a6e13c00015b04e16",
+        "image": "https://vendease.s3.us-east-2.amazonaws.com/fe4b82f98961301962678835490e0fb4ac820039179a72a0f10a2e4296b853c2.jpeg",
+        "bulk_price": [],
+        "vendor_bulk_price": [],
+        "vendease_bulk_price": [],
+        "vendor_price": 6000.05,
+        "vendease_price": 6420.05,
+        "market_price": 0.05,
+        "d@discount_deleted": false,
+        "d@deleted": false,
+        "d@name": "Unknown",
+        "category_id": "60a23c7209a72d0015a7ec7f",
+        "sub_category_id": "60a9113ae485d55616c22980",
+        "d@description": "Empty",
+        "discount": {
+          "discount_type": "value",
+          "discount_value": 60.0,
+          "_id": "62cd238a6e13c00015b04e17"
+        },
+        "weight": "1",
+        "weight_unit": "carton",
+        "countryCode": "NI904222",
+        "cityCode": "LA724629",
+        "owner_type": "system",
+        "owner": "VE552195",
+        "createdAt": "2022-07-12T07:32:26.706Z",
+        "updatedAt": "2022-07-12T07:32:26.706Z",
+        "__v": 0,
+        "category_details": {
+          "name": "packaging",
+          "d@tax_exempt": false,
+          "sub_category": "Plastic Packaging"
+        }
+      }
+    ]
+  }
+]
